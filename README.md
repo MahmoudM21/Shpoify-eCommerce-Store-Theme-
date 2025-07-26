@@ -36,4 +36,4 @@ A modern, responsive, and fully-functional Shopify theme designed for exceptiona
 
 ---
 
-**Developed by:** Your Team 
+**Developed by:** Mahmoud Hamaad
